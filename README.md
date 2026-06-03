@@ -4,7 +4,7 @@ A modern and responsive personal portfolio website showcasing my education, tech
 
 ## 🚀 Live Demo
 
-Add your GitHub Pages link here.
+https://tejaswini2116.github.io/portfolio-website/
 
 ## 👩‍💻 About Me
 
