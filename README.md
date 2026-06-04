@@ -4,7 +4,7 @@ A modern and responsive personal portfolio website showcasing my education, tech
 
 ## 🚀 Live Demo
 
-https://tejaswini2116.github.io/portfolio-website/
+https://tejaswini2116.github.io/FUTURE_FS_01/
 
 ## 👩‍💻 About Me
 
